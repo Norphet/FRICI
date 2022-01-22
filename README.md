@@ -4,3 +4,5 @@ An algorithm that will recommend the best avaliable recipe from input ingredient
 ### Install
 clone the project
 run python -m build
+
+test
